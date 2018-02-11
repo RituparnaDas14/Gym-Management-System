@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JInternalFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" pref="78" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                      <Component id="jButton3" min="-2" pref="84" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                      <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="58" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel6" alignment="1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="81" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jDateChooser1" min="-2" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="jComboBox1" alignment="1" pref="93" max="32767" attributes="0"/>
+                              <Component id="jTextField4" alignment="1" max="32767" attributes="0"/>
+                              <Component id="jTextField3" alignment="1" max="32767" attributes="0"/>
+                              <Component id="jTextField2" alignment="0" max="32767" attributes="0"/>
+                              <Component id="jTextField1" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="45" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jComboBox1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextField1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextField2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextField3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextField4" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="jDateChooser1" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="26" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jButton2" alignment="3" min="-2" pref="40" max="-2" attributes="0"/>
+                  <Component id="jButton3" alignment="3" min="-2" pref="40" max="-2" attributes="0"/>
+                  <Component id="jButton1" alignment="3" min="-2" pref="40" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Category"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Product Id"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Description"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Brand"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Quantity"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/images/addnew.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Add"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/images/cancel.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Cancel"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox1">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="120">
+            <StringItem index="0" value="Squat Station"/>
+            <StringItem index="1" value="Barbells"/>
+            <StringItem index="2" value="Bench press"/>
+            <StringItem index="3" value="Dumb bells"/>
+            <StringItem index="4" value="pullup bar"/>
+            <StringItem index="5" value="Single Teir DB Rack"/>
+            <StringItem index="6" value="2-Teir Dumbbell Rack"/>
+            <StringItem index="7" value="Adjustable Bench"/>
+            <StringItem index="8" value="Barbells 20-110"/>
+            <StringItem index="9" value="Body Master 4-Station Tower"/>
+            <StringItem index="10" value="Body Master 90&#x2070;"/>
+            <StringItem index="11" value="Body Master Ab"/>
+            <StringItem index="12" value="Body Master Ab Bench"/>
+            <StringItem index="13" value="Body Master Bicep Curl"/>
+            <StringItem index="14" value="Body Master Calf"/>
+            <StringItem index="15" value="Body Master Chin Dip Assist"/>
+            <StringItem index="16" value="Body Master Decline Bench"/>
+            <StringItem index="17" value="Body Master Dip"/>
+            <StringItem index="18" value="Body Master Dip/Knee Raise"/>
+            <StringItem index="19" value="Body Master Dumbbell Rack"/>
+            <StringItem index="20" value="Body Master Flat Bench"/>
+            <StringItem index="21" value="Body Master Glute"/>
+            <StringItem index="22" value="Body Master Hyper Extnsion"/>
+            <StringItem index="23" value="Body Master Incline Bench"/>
+            <StringItem index="24" value="Body Master Incline Press"/>
+            <StringItem index="25" value="Body Master Inner Thigh"/>
+            <StringItem index="26" value="Body Master Inner/Outer Combo"/>
+            <StringItem index="27" value="Body Master Knee Raise"/>
+            <StringItem index="28" value="Body Master Lat Pull Down"/>
+            <StringItem index="29" value="Body Master Leg Curl"/>
+            <StringItem index="30" value="Body Master Leg Extension"/>
+            <StringItem index="31" value="Body Master Leg Press"/>
+            <StringItem index="32" value="Body Master Leg Press (P/L)"/>
+            <StringItem index="33" value="Body Master Lower Back"/>
+            <StringItem index="34" value="Body Master Outer Thigh"/>
+            <StringItem index="35" value="Body Master Pec/Fly"/>
+            <StringItem index="36" value="Body Master Preacher Curl (P/L)"/>
+            <StringItem index="37" value="Body Master Rotary Torso"/>
+            <StringItem index="38" value="Body Master Seated Calf (P/L)"/>
+            <StringItem index="39" value="Body Master Seated Row"/>
+            <StringItem index="40" value="Body Master Shoulder Press"/>
+            <StringItem index="41" value="Body Master Smith Machine"/>
+            <StringItem index="42" value="Body Master Strength"/>
+            <StringItem index="43" value="Body Master Tricep Pushdown"/>
+            <StringItem index="44" value="Cybex 600A ARC Trainer"/>
+            <StringItem index="45" value="Cybex 620 ARC Trainer"/>
+            <StringItem index="46" value="Cybex Eagle Ab Machine"/>
+            <StringItem index="47" value="Cybex Knee/Dip"/>
+            <StringItem index="48" value="Cybex Shoulder Press (P/L)"/>
+            <StringItem index="49" value="Cybex Smith Machine"/>
+            <StringItem index="50" value="Cybex VR3 Leg Press (Black)"/>
+            <StringItem index="51" value="Dead Lift Platform"/>
+            <StringItem index="52" value="Eagle Rotary Torso"/>
+            <StringItem index="53" value="Expresso Bike"/>
+            <StringItem index="54" value="FreeMotion Incline Trainer"/>
+            <StringItem index="55" value="Hammer Strength Incline Bench"/>
+            <StringItem index="56" value="Hammer Strength MTS Incline"/>
+            <StringItem index="57" value="Hammer Strength Olympic Shoulder Press"/>
+            <StringItem index="58" value="Hammer Strength Plate Tree"/>
+            <StringItem index="59" value="Hammer Strength Power Rack"/>
+            <StringItem index="60" value="Icarian Accessory Rack"/>
+            <StringItem index="61" value="Life Fitness 5-Station Multi Station"/>
+            <StringItem index="62" value="Life Fitness 91XI Elliptical"/>
+            <StringItem index="63" value="Life Fitness 9500 Elliptical"/>
+            <StringItem index="64" value="Life Fitness 95XI Elliptical"/>
+            <StringItem index="65" value="Life Fitness Ab Bench"/>
+            <StringItem index="66" value="Life Fitness Abdominal Machine"/>
+            <StringItem index="67" value="Life Fitness Bi"/>
+            <StringItem index="68" value="Life Fitness Chest Press"/>
+            <StringItem index="69" value="Life Fitness Elliptical"/>
+            <StringItem index="70" value="Life Fitness Incline Press"/>
+            <StringItem index="71" value="Life Fitness Leg Curl"/>
+            <StringItem index="72" value="Life Fitness Leg Extension"/>
+            <StringItem index="73" value="Life Fitness Leg Press"/>
+            <StringItem index="74" value="Life Fitness Pec"/>
+            <StringItem index="75" value="Life Fitness Recumbent Bike"/>
+            <StringItem index="76" value="Life Fitness Row"/>
+            <StringItem index="77" value="Life Fitness Smith Machine"/>
+            <StringItem index="78" value="Life Fitness Stepper"/>
+            <StringItem index="79" value="Life Fitness Treadmill"/>
+            <StringItem index="80" value="Matrix Elliptical"/>
+            <StringItem index="81" value="Nautulis Decline Bench"/>
+            <StringItem index="82" value="Nautulis Olympic Bench"/>
+            <StringItem index="83" value="Nautulis Pullup Station"/>
+            <StringItem index="84" value="Octane"/>
+            <StringItem index="85" value="Precor 546 V4"/>
+            <StringItem index="86" value="Precor 546i Elliptical"/>
+            <StringItem index="87" value="Precor 546i EXP Elliptical"/>
+            <StringItem index="88" value="Precor 556i Elliptical"/>
+            <StringItem index="89" value="Precor 576i EXP Elliptical"/>
+            <StringItem index="90" value="Precor 576i V4"/>
+            <StringItem index="91" value="Precor 933 Treadmill"/>
+            <StringItem index="92" value="Precor 956 Treadmill"/>
+            <StringItem index="93" value="Precor 956i Treadmill"/>
+            <StringItem index="94" value="Precor Ab Bench"/>
+            <StringItem index="95" value="Precor AMT 100i"/>
+            <StringItem index="96" value="Precor C776i Steppers"/>
+            <StringItem index="97" value="Precor EFX 533"/>
+            <StringItem index="98" value="Precor EXP 956i Treadmill"/>
+            <StringItem index="99" value="Precor Icarian Cable Crossover"/>
+            <StringItem index="100" value="Precor Jungle Gym (5-Station)"/>
+            <StringItem index="101" value="Precor Pec/Fly"/>
+            <StringItem index="102" value="Rack"/>
+            <StringItem index="103" value="Schwinn AC Sport Spin Bike"/>
+            <StringItem index="104" value="Stairmaster 7000PT"/>
+            <StringItem index="105" value="StairMaster SM5"/>
+            <StringItem index="106" value="Star Trac NXT Spin Bike"/>
+            <StringItem index="107" value="Star Trac Elite Spinner"/>
+            <StringItem index="108" value="Star Trac E-TRX Treadmill"/>
+            <StringItem index="109" value="Star Trac Impact Chest Press"/>
+            <StringItem index="110" value="Star Trac Impact Low Row"/>
+            <StringItem index="111" value="Star Trac Pec/Fly"/>
+            <StringItem index="112" value="Star Trac Recumbent Bike"/>
+            <StringItem index="113" value="Star Trac Recumbent Bike - ETRX"/>
+            <StringItem index="114" value="Star Trac Upright Bike"/>
+            <StringItem index="115" value="Technogym Calf"/>
+            <StringItem index="116" value="True CS500 Treadmill"/>
+            <StringItem index="117" value="True CS800 Elliptical"/>
+            <StringItem index="118" value="True CS800 Recumbent Bike"/>
+            <StringItem index="119" value="True CS800 Upright Bike"/>
+          </StringArray>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField4">
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton3">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/images/update.png"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Edit "/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton3ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Inventory Date"/>
+      </Properties>
+    </Component>
+    <Component class="com.toedter.calendar.JDateChooser" name="jDateChooser1">
+    </Component>
+  </SubComponents>
+</Form>
